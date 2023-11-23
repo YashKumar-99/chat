@@ -1,0 +1,33 @@
+.mainChatDiv {
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    /* align-content: space-between; */
+    height: 100vh;
+    justify-content: space-between;
+    padding: 16px;
+}
+/* 
+.chatfea {
+    display: flex;
+    align-items: 'self-start';
+}
+
+.chatfea p {
+    background-color: #6684ff;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 4px 15px;
+}
+
+.profile-pic img {
+
+    width: 50px;
+    border-radius: 50%;
+}
+.profile-pic{
+    width: 50px;
+    margin-right: 5px;
+} */

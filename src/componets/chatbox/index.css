@@ -1,0 +1,24 @@
+.bottom-sec {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding-left: 15px;
+}
+.file-input-container {
+    width: 30px;
+    background: #fff;
+    font-size: 22px;
+    color: #4CAF50;
+    transform: rotate(45deg);
+}
+
+
+.bottom-sec input {
+    outline: none;
+    border: none;
+    border-radius: 0;
+}
+
+.bottom-sec button {
+    border-radius: 0;
+}
